@@ -20,3 +20,7 @@ This project helps students identify early signs of stress and anxiety using AI-
 # Author
 Saad Ullah 
 Software Engineering Student (SSUET)
+
+## Project Screenshot
+
+![Mental Well-Being AI]([IMAGE_LINK_HERE](https://raw.githubusercontent.com/saadullah684/Mental-Well-Being-AI-Project/refs/heads/main/Login%20Page.jpeg))
