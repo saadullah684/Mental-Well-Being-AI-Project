@@ -24,4 +24,7 @@ Software Engineering Student (SSUET)
 ## Project Screenshot
 
 ![Login Page](https://raw.githubusercontent.com/saadullah684/Mental-Well-Being-AI-Project/refs/heads/main/Login%20Page.jpeg)
-![Login Page](
+![Login Page start](https://raw.githubusercontent.com/saadullah684/Mental-Well-Being-AI-Project/refs/heads/main/page.jpeg)
+![Main Page end](https://raw.githubusercontent.com/saadullah684/Mental-Well-Being-AI-Project/main/page.jpeg)
+![Dashboard](https://raw.githubusercontent.com/saadullah684/Mental-Well-Being-AI-Project/main/Main%20Page.jpeg)
+![Result](https://raw.githubusercontent.com/saadullah684/Mental-Well-Being-AI-Project/refs/heads/main/result.jpeg)
